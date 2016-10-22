@@ -1,5 +1,5 @@
 {
-    "name": "trepia/blog-bundle",
+    "name": "rpg/gamebundle",
     "version": "0.1.0",
     "type": "symfony-bundle",
     "description": "Symfony BlogBundle",
