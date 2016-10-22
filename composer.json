@@ -1,0 +1,22 @@
+{
+    "name": "trepia/blog-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony BlogBundle",
+    "keywords": ["game","roleplay"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+        "name": "sebastien perret",
+        "email": "sebastienperret93160@gmail.com",
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "symfony/framework-bundle": ">=3.1.5",
+    },
+    "autoload": {
+        "psr-4": { "": "src/" },
+        "classmap": [ "app/AppKernel.php", "app/AppCache.php" ]
+    },
+    "target-dir": "Rpg/Bundle/GameBundle",
+}
