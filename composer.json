@@ -1,5 +1,6 @@
 {
     "name": "trepia/blog-bundle",
+    "version": "0.1.0",
     "type": "symfony-bundle",
     "description": "Symfony BlogBundle",
     "keywords": ["game","roleplay"],
