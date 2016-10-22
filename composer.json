@@ -18,5 +18,5 @@
         "psr-4": { "": "src/" },
         "classmap": [ "app/AppKernel.php", "app/AppCache.php" ]
     },
-    "target-dir": "Rpg/Bundle/GameBundle",
+    "target-dir": "Rpg/Bundle/GameBundle"
 }
